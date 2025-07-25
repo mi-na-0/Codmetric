@@ -9,7 +9,7 @@ This tool generates strong, random passwords based on user-defined settings like
 - Digits
 - Special characters
 
-## 💻 How to Run
+##  How to Run
 
 ```bash
 python secure_password_generator.py
